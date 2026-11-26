@@ -1,0 +1,4 @@
+olmhash
+*.o
+olmhash_table.txt
+.DS_Store
